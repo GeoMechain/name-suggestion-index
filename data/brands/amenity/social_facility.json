@@ -1,6 +1,19 @@
 {
   "brands/amenity/social_facility": [
     {
+      "displayName": "ADMR",
+      "id": "admr-6ae572",
+      "locationSet": {"include": ["fr"]},
+      "tags": {
+        "amenity": "social_facility",
+        "social_facility": "outreach",
+        "brand": "ADMR",
+        "brand:wikidata": "Q2819099",
+        "brand:wikipedia": "ADMR",
+        "name": "ADMR"
+      }
+    },
+    {
       "displayName": "Bahnhofsmission",
       "id": "bahnhofsmission-da0ff2",
       "locationSet": {"include": ["de"]},
